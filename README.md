@@ -67,3 +67,6 @@ https://github.com/farihafaiz008
 
 LinkedIn:
 https://www.linkedin.com/in/YourLinkedInUsername
+## Live Website
+
+https://farihafaiz008.github.io/fariha-portfolio/
